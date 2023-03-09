@@ -126,6 +126,7 @@ let u: undefined = undefined;
 - 将any断言为一个具体的类型
 
 #### 声明
+
 - 声明语句,`declare <Type>`
 - 声明文件:声明语句所在的文件，以`.d.ts`结尾
 
@@ -133,7 +134,6 @@ let u: undefined = undefined;
 ### 进阶
 
 1. 类型
-
 
 
 2. 接口
